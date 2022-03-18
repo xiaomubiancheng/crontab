@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/master/main/web/bootstrap/bootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/master/main/web/jquery" vcs="Git" />
+  </component>
+</project>
